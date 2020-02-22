@@ -126,7 +126,7 @@ nav {
 }
 /* Maintains aspect ratio of image but does not allow image to be any wider than set amount of pixels. */
 .thumbnail img {
-    max-width: 270px;
+    max-width: 140px;
 }
 
 .left {
